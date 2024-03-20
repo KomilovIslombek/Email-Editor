@@ -1,0 +1,13 @@
+.tools {
+  > button {
+    margin-right: 0.4rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color 0.4s ease-in-out;
+
+    &:hover {
+      color: burlywood;
+    }
+  }
+}
